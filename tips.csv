@@ -1,5 +1,8 @@
-S.No,Name,Age,City,Salary
-1,Tom,28,Toronto,20000
-2,Lee,32,HongKong,3000
-3,Steven,43,Bay Area,8300
-4,Ram,38,Hyderabad,3900
+total_bill,tip,sex,smoker,day,time,size
+16.99,1.01,Female,No,Sun,Dinner,2
+10.34,1.66,Male,No,Sun,Dinner,3
+21.01,3.50,Male,No,Sun,Dinner,3
+23.68,3.31,Male,No,Sun,Dinner,2
+24.59,3.61,Female,No,Sun,Dinner,4
+34.79,3.61,Male,yes,Sat,lunch,3
+25.69,3.61,Male,yes,mon,breakfast,5
